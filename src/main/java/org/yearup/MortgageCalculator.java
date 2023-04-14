@@ -1,4 +1,4 @@
-package org.yearup;300
+package org.yearup;
 
 import java.util.Scanner;
 
