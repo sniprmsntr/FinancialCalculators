@@ -1,3 +1,3 @@
 # FinancialCalculators
 
-CDCalculator
+Instructions prompted at the terminal when program is ran
