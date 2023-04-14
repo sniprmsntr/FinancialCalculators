@@ -36,6 +36,12 @@ public class MortgageCalculator {
         System.out.printf("Your monthly mortgage payment is: $%.2f", monthlyPayment);
         System.out.println();
         System.out.printf("Your monthly interest rate is: $%.2f", interestRate * 12 );
+        System.out.println();
+        System.out.println("---------------------------------");
+       // Display the total loan amount with interest
+
+        System.out.printf("Your total loand amount with interest: $%.2f",monthlyPayment*loanTermYears*interestRate);
+
 
     }
 
