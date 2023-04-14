@@ -7,6 +7,7 @@
     <list default="true" id="8fa2bf23-2fed-4601-a758-773bcd648d81" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/MortgageCalculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/yearup/CDCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       </method>
     </configuration>
     <configuration name="MortgageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MortgageCalculator" />
+      <option name="MAIN_CLASS_NAME" value="org.yearup.MortgageCalculator" />
       <module name="FinancialCalculators" />
       <method v="2">
         <option name="Make" enabled="true" />

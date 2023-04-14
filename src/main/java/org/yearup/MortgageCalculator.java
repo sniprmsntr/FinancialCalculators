@@ -1,3 +1,5 @@
+package org.yearup;
+
 import java.util.Scanner;
 
 public class MortgageCalculator {
