@@ -1,4 +1,4 @@
-package org.yearup;
+package org.yearup;300
 
 import java.util.Scanner;
 
@@ -40,7 +40,7 @@ public class MortgageCalculator {
         System.out.println("---------------------------------");
        // Display the total loan amount with interest
 
-        System.out.printf("Your total loand amount with interest: $%.2f",monthlyPayment*loanTermYears*interestRate);
+
 
 
     }

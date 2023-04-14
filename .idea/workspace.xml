@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CDCalculator">
+  <component name="RunManager" selected="Application.MortgageCalculator">
     <configuration name="CDCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.yearup.CDCalculator" />
       <module name="FinancialCalculators" />
@@ -79,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CDCalculator" />
         <item itemvalue="Application.MortgageCalculator" />
+        <item itemvalue="Application.CDCalculator" />
         <item itemvalue="Application.FutureValueCalculator" />
       </list>
     </recent_temporary>
